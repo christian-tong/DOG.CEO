@@ -1,0 +1,10 @@
+.slide {
+    position: absolute;
+    top: 20%;
+    bottom: 20%;
+    left: 20%;
+    right: 20%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+  }
